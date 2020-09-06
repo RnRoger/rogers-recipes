@@ -1,6 +1,13 @@
 {
   "recipedata": {
-    "test": [1,2,3],
+    "cupnoodles":{
+      "description": "Classic NEET food.",
+      "ingredients": ["cup of noodles", "hot water"]
     "test2": [1,2,3]
+    }
+  },
+  "ingredientdata": {
+    "cup of noodles": "buy in store",
+    "hot water": "Boil water"
   }
 }
