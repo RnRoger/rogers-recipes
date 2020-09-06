@@ -3,7 +3,6 @@
     "cupnoodles":{
       "description": "Classic NEET food.",
       "ingredients": ["cup of noodles", "hot water"]
-    "test2": [1,2,3]
     }
   },
   "ingredientdata": {
